@@ -1,0 +1,1 @@
+The SQL query uses a function that implicitly converts a string to a numeric type, but the string contains non-numeric characters. This leads to unexpected results or errors.
